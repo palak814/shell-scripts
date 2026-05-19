@@ -1,9 +1,8 @@
 #!/bin/bash
 
-<<info 
- This  shell script will take periodic backups
-
-info
+<<help
+This is a shell script for backups using cron
+help
 
 src=$1
 
